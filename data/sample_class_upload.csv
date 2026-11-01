@@ -1,0 +1,349 @@
+register_no,student_name,subject_code,subject,IA1,IA2,IA3
+URK23EC6001,Aarav Chandran,21EC2023,Cyber Security,27,29,28
+URK23EC6001,Aarav Chandran,22EC2009,Bio-inspired Optimization Techniques,30,28,28
+URK23EC6001,Aarav Chandran,18EC2017,Computer Network,30,25,28
+URK23EC6001,Aarav Chandran,23EC2001,Introduction to Data Analytics,36,36,32
+URK23EC6001,Aarav Chandran,21EC2035,Data Mining,29,30,29
+URK23EC6001,Aarav Chandran,21EC2021,Multimedia Engineering,30,28,29
+URK23EC6002,Ananya Thomas,21EC2023,Cyber Security,40,39,40
+URK23EC6002,Ananya Thomas,22EC2009,Bio-inspired Optimization Techniques,39,40,40
+URK23EC6002,Ananya Thomas,18EC2017,Computer Network,35,35,35
+URK23EC6002,Ananya Thomas,23EC2001,Introduction to Data Analytics,39,35,37
+URK23EC6002,Ananya Thomas,21EC2035,Data Mining,32,38,32
+URK23EC6002,Ananya Thomas,21EC2021,Multimedia Engineering,40,39,40
+URK23EC6003,Karthik Raj,21EC2023,Cyber Security,28,25,26
+URK23EC6003,Karthik Raj,22EC2009,Bio-inspired Optimization Techniques,24,24,19
+URK23EC6003,Karthik Raj,18EC2017,Computer Network,30,25,26
+URK23EC6003,Karthik Raj,23EC2001,Introduction to Data Analytics,18,22,24
+URK23EC6003,Karthik Raj,21EC2035,Data Mining,26,27,27
+URK23EC6003,Karthik Raj,21EC2021,Multimedia Engineering,18,23,22
+URK23EC6004,Divya Krishnan,21EC2023,Cyber Security,27,28,25
+URK23EC6004,Divya Krishnan,22EC2009,Bio-inspired Optimization Techniques,28,29,27
+URK23EC6004,Divya Krishnan,18EC2017,Computer Network,15,17,21
+URK23EC6004,Divya Krishnan,23EC2001,Introduction to Data Analytics,26,23,25
+URK23EC6004,Divya Krishnan,21EC2035,Data Mining,25,28,28
+URK23EC6004,Divya Krishnan,21EC2021,Multimedia Engineering,31,29,28
+URK23EC6005,Rohan Sundaram,21EC2023,Cyber Security,28,23,25
+URK23EC6005,Rohan Sundaram,22EC2009,Bio-inspired Optimization Techniques,32,32,36
+URK23EC6005,Rohan Sundaram,18EC2017,Computer Network,35,39,39
+URK23EC6005,Rohan Sundaram,23EC2001,Introduction to Data Analytics,34,34,32
+URK23EC6005,Rohan Sundaram,21EC2035,Data Mining,26,22,23
+URK23EC6005,Rohan Sundaram,21EC2021,Multimedia Engineering,34,35,31
+URK23EC6006,Meera Kumar,21EC2023,Cyber Security,25,24,23
+URK23EC6006,Meera Kumar,22EC2009,Bio-inspired Optimization Techniques,37,33,33
+URK23EC6006,Meera Kumar,18EC2017,Computer Network,36,37,36
+URK23EC6006,Meera Kumar,23EC2001,Introduction to Data Analytics,38,35,38
+URK23EC6006,Meera Kumar,21EC2035,Data Mining,35,36,32
+URK23EC6006,Meera Kumar,21EC2021,Multimedia Engineering,34,35,33
+URK23EC6007,Vishal Selvam,21EC2023,Cyber Security,25,24,23
+URK23EC6007,Vishal Selvam,22EC2009,Bio-inspired Optimization Techniques,22,22,26
+URK23EC6007,Vishal Selvam,18EC2017,Computer Network,30,34,34
+URK23EC6007,Vishal Selvam,23EC2001,Introduction to Data Analytics,38,35,34
+URK23EC6007,Vishal Selvam,21EC2035,Data Mining,28,26,28
+URK23EC6007,Vishal Selvam,21EC2021,Multimedia Engineering,29,29,29
+URK23EC6008,Sneha Prakash,21EC2023,Cyber Security,36,39,35
+URK23EC6008,Sneha Prakash,22EC2009,Bio-inspired Optimization Techniques,38,37,34
+URK23EC6008,Sneha Prakash,18EC2017,Computer Network,38,39,35
+URK23EC6008,Sneha Prakash,23EC2001,Introduction to Data Analytics,35,35,38
+URK23EC6008,Sneha Prakash,21EC2035,Data Mining,40,40,37
+URK23EC6008,Sneha Prakash,21EC2021,Multimedia Engineering,40,39,40
+URK23EC6009,Arjun Natarajan,21EC2023,Cyber Security,24,22,22
+URK23EC6009,Arjun Natarajan,22EC2009,Bio-inspired Optimization Techniques,27,27,25
+URK23EC6009,Arjun Natarajan,18EC2017,Computer Network,28,24,21
+URK23EC6009,Arjun Natarajan,23EC2001,Introduction to Data Analytics,20,22,19
+URK23EC6009,Arjun Natarajan,21EC2035,Data Mining,20,22,24
+URK23EC6009,Arjun Natarajan,21EC2021,Multimedia Engineering,21,22,21
+URK23EC6010,Priya Babu,21EC2023,Cyber Security,24,20,22
+URK23EC6010,Priya Babu,22EC2009,Bio-inspired Optimization Techniques,17,19,21
+URK23EC6010,Priya Babu,18EC2017,Computer Network,13,14,15
+URK23EC6010,Priya Babu,23EC2001,Introduction to Data Analytics,22,24,22
+URK23EC6010,Priya Babu,21EC2035,Data Mining,22,23,21
+URK23EC6010,Priya Babu,21EC2021,Multimedia Engineering,27,29,29
+URK23EC6011,Nikhil Raman,21EC2023,Cyber Security,29,26,26
+URK23EC6011,Nikhil Raman,22EC2009,Bio-inspired Optimization Techniques,20,20,21
+URK23EC6011,Nikhil Raman,18EC2017,Computer Network,29,29,31
+URK23EC6011,Nikhil Raman,23EC2001,Introduction to Data Analytics,32,27,25
+URK23EC6011,Nikhil Raman,21EC2035,Data Mining,26,27,28
+URK23EC6011,Nikhil Raman,21EC2021,Multimedia Engineering,26,27,34
+URK23EC6012,Lakshmi Nair,21EC2023,Cyber Security,27,26,27
+URK23EC6012,Lakshmi Nair,22EC2009,Bio-inspired Optimization Techniques,34,31,31
+URK23EC6012,Lakshmi Nair,18EC2017,Computer Network,24,25,29
+URK23EC6012,Lakshmi Nair,23EC2001,Introduction to Data Analytics,32,34,34
+URK23EC6012,Lakshmi Nair,21EC2035,Data Mining,29,28,25
+URK23EC6012,Lakshmi Nair,21EC2021,Multimedia Engineering,25,23,26
+URK23EC6013,Harish Joseph,21EC2023,Cyber Security,39,36,37
+URK23EC6013,Harish Joseph,22EC2009,Bio-inspired Optimization Techniques,29,36,34
+URK23EC6013,Harish Joseph,18EC2017,Computer Network,31,29,29
+URK23EC6013,Harish Joseph,23EC2001,Introduction to Data Analytics,35,34,34
+URK23EC6013,Harish Joseph,21EC2035,Data Mining,29,30,30
+URK23EC6013,Harish Joseph,21EC2021,Multimedia Engineering,40,38,36
+URK23EC6014,Keerthana Anand,21EC2023,Cyber Security,28,29,28
+URK23EC6014,Keerthana Anand,22EC2009,Bio-inspired Optimization Techniques,38,34,36
+URK23EC6014,Keerthana Anand,18EC2017,Computer Network,31,34,34
+URK23EC6014,Keerthana Anand,23EC2001,Introduction to Data Analytics,29,28,31
+URK23EC6014,Keerthana Anand,21EC2035,Data Mining,32,31,35
+URK23EC6014,Keerthana Anand,21EC2021,Multimedia Engineering,20,20,23
+URK23EC6015,Suresh Devi,21EC2023,Cyber Security,30,33,34
+URK23EC6015,Suresh Devi,22EC2009,Bio-inspired Optimization Techniques,39,38,40
+URK23EC6015,Suresh Devi,18EC2017,Computer Network,36,35,38
+URK23EC6015,Suresh Devi,23EC2001,Introduction to Data Analytics,36,34,38
+URK23EC6015,Suresh Devi,21EC2035,Data Mining,35,37,40
+URK23EC6015,Suresh Devi,21EC2021,Multimedia Engineering,40,36,40
+URK23EC6016,Janani Iyer,21EC2023,Cyber Security,28,26,25
+URK23EC6016,Janani Iyer,22EC2009,Bio-inspired Optimization Techniques,34,31,32
+URK23EC6016,Janani Iyer,18EC2017,Computer Network,21,18,21
+URK23EC6016,Janani Iyer,23EC2001,Introduction to Data Analytics,24,27,24
+URK23EC6016,Janani Iyer,21EC2035,Data Mining,38,33,37
+URK23EC6016,Janani Iyer,21EC2021,Multimedia Engineering,31,30,30
+URK23EC6017,Dinesh Samuel,21EC2023,Cyber Security,30,27,29
+URK23EC6017,Dinesh Samuel,22EC2009,Bio-inspired Optimization Techniques,29,31,29
+URK23EC6017,Dinesh Samuel,18EC2017,Computer Network,27,27,23
+URK23EC6017,Dinesh Samuel,23EC2001,Introduction to Data Analytics,25,29,29
+URK23EC6017,Dinesh Samuel,21EC2035,Data Mining,27,27,24
+URK23EC6017,Dinesh Samuel,21EC2021,Multimedia Engineering,32,34,29
+URK23EC6018,Revathi Pillai,21EC2023,Cyber Security,32,29,31
+URK23EC6018,Revathi Pillai,22EC2009,Bio-inspired Optimization Techniques,37,38,40
+URK23EC6018,Revathi Pillai,18EC2017,Computer Network,34,32,33
+URK23EC6018,Revathi Pillai,23EC2001,Introduction to Data Analytics,25,26,25
+URK23EC6018,Revathi Pillai,21EC2035,Data Mining,30,34,31
+URK23EC6018,Revathi Pillai,21EC2021,Multimedia Engineering,27,30,29
+URK23EC6019,Praveen Menon,21EC2023,Cyber Security,30,28,31
+URK23EC6019,Praveen Menon,22EC2009,Bio-inspired Optimization Techniques,25,27,21
+URK23EC6019,Praveen Menon,18EC2017,Computer Network,33,31,35
+URK23EC6019,Praveen Menon,23EC2001,Introduction to Data Analytics,32,31,34
+URK23EC6019,Praveen Menon,21EC2035,Data Mining,28,33,31
+URK23EC6019,Praveen Menon,21EC2021,Multimedia Engineering,33,35,36
+URK23EC6020,Swetha Murugan,21EC2023,Cyber Security,40,36,37
+URK23EC6020,Swetha Murugan,22EC2009,Bio-inspired Optimization Techniques,33,34,36
+URK23EC6020,Swetha Murugan,18EC2017,Computer Network,35,30,34
+URK23EC6020,Swetha Murugan,23EC2001,Introduction to Data Analytics,37,37,34
+URK23EC6020,Swetha Murugan,21EC2035,Data Mining,25,25,27
+URK23EC6020,Swetha Murugan,21EC2021,Multimedia Engineering,35,37,40
+URK23EC6021,Naveen Chandran,21EC2023,Cyber Security,34,36,39
+URK23EC6021,Naveen Chandran,22EC2009,Bio-inspired Optimization Techniques,37,37,40
+URK23EC6021,Naveen Chandran,18EC2017,Computer Network,40,40,40
+URK23EC6021,Naveen Chandran,23EC2001,Introduction to Data Analytics,36,38,35
+URK23EC6021,Naveen Chandran,21EC2035,Data Mining,40,40,40
+URK23EC6021,Naveen Chandran,21EC2021,Multimedia Engineering,40,40,34
+URK23EC6022,Pooja Thomas,21EC2023,Cyber Security,34,37,37
+URK23EC6022,Pooja Thomas,22EC2009,Bio-inspired Optimization Techniques,39,35,36
+URK23EC6022,Pooja Thomas,18EC2017,Computer Network,38,40,38
+URK23EC6022,Pooja Thomas,23EC2001,Introduction to Data Analytics,39,39,40
+URK23EC6022,Pooja Thomas,21EC2035,Data Mining,34,39,35
+URK23EC6022,Pooja Thomas,21EC2021,Multimedia Engineering,37,39,40
+URK23EC6023,Gokul Raj,21EC2023,Cyber Security,32,28,29
+URK23EC6023,Gokul Raj,22EC2009,Bio-inspired Optimization Techniques,24,23,23
+URK23EC6023,Gokul Raj,18EC2017,Computer Network,32,29,30
+URK23EC6023,Gokul Raj,23EC2001,Introduction to Data Analytics,27,25,25
+URK23EC6023,Gokul Raj,21EC2035,Data Mining,23,25,25
+URK23EC6023,Gokul Raj,21EC2021,Multimedia Engineering,30,26,28
+URK23EC6024,Haritha Krishnan,21EC2023,Cyber Security,23,26,23
+URK23EC6024,Haritha Krishnan,22EC2009,Bio-inspired Optimization Techniques,33,33,32
+URK23EC6024,Haritha Krishnan,18EC2017,Computer Network,35,33,33
+URK23EC6024,Haritha Krishnan,23EC2001,Introduction to Data Analytics,30,32,33
+URK23EC6024,Haritha Krishnan,21EC2035,Data Mining,34,36,36
+URK23EC6024,Haritha Krishnan,21EC2021,Multimedia Engineering,40,39,35
+URK23EC6025,Manoj Sundaram,21EC2023,Cyber Security,35,36,37
+URK23EC6025,Manoj Sundaram,22EC2009,Bio-inspired Optimization Techniques,37,31,38
+URK23EC6025,Manoj Sundaram,18EC2017,Computer Network,40,40,40
+URK23EC6025,Manoj Sundaram,23EC2001,Introduction to Data Analytics,34,38,33
+URK23EC6025,Manoj Sundaram,21EC2035,Data Mining,38,40,40
+URK23EC6025,Manoj Sundaram,21EC2021,Multimedia Engineering,40,40,40
+URK23EC6026,Nandhini Kumar,21EC2023,Cyber Security,39,39,36
+URK23EC6026,Nandhini Kumar,22EC2009,Bio-inspired Optimization Techniques,38,34,34
+URK23EC6026,Nandhini Kumar,18EC2017,Computer Network,37,30,34
+URK23EC6026,Nandhini Kumar,23EC2001,Introduction to Data Analytics,29,35,34
+URK23EC6026,Nandhini Kumar,21EC2035,Data Mining,26,29,28
+URK23EC6026,Nandhini Kumar,21EC2021,Multimedia Engineering,31,34,31
+URK23EC6027,Sanjay Selvam,21EC2023,Cyber Security,40,39,40
+URK23EC6027,Sanjay Selvam,22EC2009,Bio-inspired Optimization Techniques,32,37,36
+URK23EC6027,Sanjay Selvam,18EC2017,Computer Network,37,34,36
+URK23EC6027,Sanjay Selvam,23EC2001,Introduction to Data Analytics,31,32,32
+URK23EC6027,Sanjay Selvam,21EC2035,Data Mining,38,33,38
+URK23EC6027,Sanjay Selvam,21EC2021,Multimedia Engineering,37,40,38
+URK23EC6028,Abinaya Prakash,21EC2023,Cyber Security,25,27,27
+URK23EC6028,Abinaya Prakash,22EC2009,Bio-inspired Optimization Techniques,29,27,21
+URK23EC6028,Abinaya Prakash,18EC2017,Computer Network,23,25,21
+URK23EC6028,Abinaya Prakash,23EC2001,Introduction to Data Analytics,31,31,31
+URK23EC6028,Abinaya Prakash,21EC2035,Data Mining,23,25,26
+URK23EC6028,Abinaya Prakash,21EC2021,Multimedia Engineering,22,27,20
+URK23EC6029,Tharun Natarajan,21EC2023,Cyber Security,30,30,30
+URK23EC6029,Tharun Natarajan,22EC2009,Bio-inspired Optimization Techniques,29,30,31
+URK23EC6029,Tharun Natarajan,18EC2017,Computer Network,25,24,24
+URK23EC6029,Tharun Natarajan,23EC2001,Introduction to Data Analytics,25,24,26
+URK23EC6029,Tharun Natarajan,21EC2035,Data Mining,24,27,30
+URK23EC6029,Tharun Natarajan,21EC2021,Multimedia Engineering,23,26,27
+URK23EC6030,Kavya Babu,21EC2023,Cyber Security,27,32,31
+URK23EC6030,Kavya Babu,22EC2009,Bio-inspired Optimization Techniques,32,31,35
+URK23EC6030,Kavya Babu,18EC2017,Computer Network,30,32,30
+URK23EC6030,Kavya Babu,23EC2001,Introduction to Data Analytics,37,35,35
+URK23EC6030,Kavya Babu,21EC2035,Data Mining,33,32,34
+URK23EC6030,Kavya Babu,21EC2021,Multimedia Engineering,34,34,34
+URK23EC6031,Vignesh Raman,21EC2023,Cyber Security,32,34,32
+URK23EC6031,Vignesh Raman,22EC2009,Bio-inspired Optimization Techniques,31,34,36
+URK23EC6031,Vignesh Raman,18EC2017,Computer Network,30,35,31
+URK23EC6031,Vignesh Raman,23EC2001,Introduction to Data Analytics,32,33,35
+URK23EC6031,Vignesh Raman,21EC2035,Data Mining,31,30,35
+URK23EC6031,Vignesh Raman,21EC2021,Multimedia Engineering,32,28,32
+URK23EC6032,Deepika Nair,21EC2023,Cyber Security,30,29,28
+URK23EC6032,Deepika Nair,22EC2009,Bio-inspired Optimization Techniques,26,26,26
+URK23EC6032,Deepika Nair,18EC2017,Computer Network,22,24,20
+URK23EC6032,Deepika Nair,23EC2001,Introduction to Data Analytics,20,17,24
+URK23EC6032,Deepika Nair,21EC2035,Data Mining,29,31,30
+URK23EC6032,Deepika Nair,21EC2021,Multimedia Engineering,24,26,26
+URK23EC6033,Bharath Joseph,21EC2023,Cyber Security,20,18,20
+URK23EC6033,Bharath Joseph,22EC2009,Bio-inspired Optimization Techniques,24,26,23
+URK23EC6033,Bharath Joseph,18EC2017,Computer Network,19,21,18
+URK23EC6033,Bharath Joseph,23EC2001,Introduction to Data Analytics,23,23,22
+URK23EC6033,Bharath Joseph,21EC2035,Data Mining,21,23,22
+URK23EC6033,Bharath Joseph,21EC2021,Multimedia Engineering,18,18,16
+URK23EC6034,Sowmya Anand,21EC2023,Cyber Security,16,14,13
+URK23EC6034,Sowmya Anand,22EC2009,Bio-inspired Optimization Techniques,25,24,24
+URK23EC6034,Sowmya Anand,18EC2017,Computer Network,20,21,19
+URK23EC6034,Sowmya Anand,23EC2001,Introduction to Data Analytics,23,24,23
+URK23EC6034,Sowmya Anand,21EC2035,Data Mining,25,32,27
+URK23EC6034,Sowmya Anand,21EC2021,Multimedia Engineering,24,23,23
+URK23EC6035,Yogesh Devi,21EC2023,Cyber Security,35,32,33
+URK23EC6035,Yogesh Devi,22EC2009,Bio-inspired Optimization Techniques,28,26,26
+URK23EC6035,Yogesh Devi,18EC2017,Computer Network,32,33,32
+URK23EC6035,Yogesh Devi,23EC2001,Introduction to Data Analytics,34,36,32
+URK23EC6035,Yogesh Devi,21EC2035,Data Mining,33,32,31
+URK23EC6035,Yogesh Devi,21EC2021,Multimedia Engineering,36,32,33
+URK23EC6036,Anitha Iyer,21EC2023,Cyber Security,26,28,28
+URK23EC6036,Anitha Iyer,22EC2009,Bio-inspired Optimization Techniques,26,26,28
+URK23EC6036,Anitha Iyer,18EC2017,Computer Network,24,18,22
+URK23EC6036,Anitha Iyer,23EC2001,Introduction to Data Analytics,25,24,22
+URK23EC6036,Anitha Iyer,21EC2035,Data Mining,20,24,24
+URK23EC6036,Anitha Iyer,21EC2021,Multimedia Engineering,26,30,24
+URK23EC6037,Mohan Samuel,21EC2023,Cyber Security,31,30,30
+URK23EC6037,Mohan Samuel,22EC2009,Bio-inspired Optimization Techniques,22,23,26
+URK23EC6037,Mohan Samuel,18EC2017,Computer Network,23,18,20
+URK23EC6037,Mohan Samuel,23EC2001,Introduction to Data Analytics,26,26,24
+URK23EC6037,Mohan Samuel,21EC2035,Data Mining,14,15,15
+URK23EC6037,Mohan Samuel,21EC2021,Multimedia Engineering,25,28,25
+URK23EC6038,Ishwarya Pillai,21EC2023,Cyber Security,28,28,32
+URK23EC6038,Ishwarya Pillai,22EC2009,Bio-inspired Optimization Techniques,30,31,32
+URK23EC6038,Ishwarya Pillai,18EC2017,Computer Network,32,34,36
+URK23EC6038,Ishwarya Pillai,23EC2001,Introduction to Data Analytics,27,25,25
+URK23EC6038,Ishwarya Pillai,21EC2035,Data Mining,32,30,27
+URK23EC6038,Ishwarya Pillai,21EC2021,Multimedia Engineering,26,28,22
+URK23EC6039,Ashwin Menon,21EC2023,Cyber Security,35,35,37
+URK23EC6039,Ashwin Menon,22EC2009,Bio-inspired Optimization Techniques,38,35,37
+URK23EC6039,Ashwin Menon,18EC2017,Computer Network,34,36,39
+URK23EC6039,Ashwin Menon,23EC2001,Introduction to Data Analytics,39,32,35
+URK23EC6039,Ashwin Menon,21EC2035,Data Mining,34,33,33
+URK23EC6039,Ashwin Menon,21EC2021,Multimedia Engineering,40,40,40
+URK23EC6040,Gayathri Murugan,21EC2023,Cyber Security,23,23,24
+URK23EC6040,Gayathri Murugan,22EC2009,Bio-inspired Optimization Techniques,20,17,21
+URK23EC6040,Gayathri Murugan,18EC2017,Computer Network,23,24,24
+URK23EC6040,Gayathri Murugan,23EC2001,Introduction to Data Analytics,18,19,17
+URK23EC6040,Gayathri Murugan,21EC2035,Data Mining,22,24,21
+URK23EC6040,Gayathri Murugan,21EC2021,Multimedia Engineering,28,23,28
+URK23EC6041,Rahul Chandran,21EC2023,Cyber Security,28,26,26
+URK23EC6041,Rahul Chandran,22EC2009,Bio-inspired Optimization Techniques,40,39,39
+URK23EC6041,Rahul Chandran,18EC2017,Computer Network,32,33,31
+URK23EC6041,Rahul Chandran,23EC2001,Introduction to Data Analytics,39,38,34
+URK23EC6041,Rahul Chandran,21EC2035,Data Mining,32,30,31
+URK23EC6041,Rahul Chandran,21EC2021,Multimedia Engineering,36,33,33
+URK23EC6042,Shruthi Thomas,21EC2023,Cyber Security,15,19,20
+URK23EC6042,Shruthi Thomas,22EC2009,Bio-inspired Optimization Techniques,27,21,27
+URK23EC6042,Shruthi Thomas,18EC2017,Computer Network,31,27,29
+URK23EC6042,Shruthi Thomas,23EC2001,Introduction to Data Analytics,23,21,24
+URK23EC6042,Shruthi Thomas,21EC2035,Data Mining,21,16,18
+URK23EC6042,Shruthi Thomas,21EC2021,Multimedia Engineering,23,21,23
+URK23EC6043,Kishore Raj,21EC2023,Cyber Security,35,36,34
+URK23EC6043,Kishore Raj,22EC2009,Bio-inspired Optimization Techniques,29,31,32
+URK23EC6043,Kishore Raj,18EC2017,Computer Network,27,26,28
+URK23EC6043,Kishore Raj,23EC2001,Introduction to Data Analytics,32,35,36
+URK23EC6043,Kishore Raj,21EC2035,Data Mining,32,29,27
+URK23EC6043,Kishore Raj,21EC2021,Multimedia Engineering,31,34,35
+URK23EC6044,Madhavi Krishnan,21EC2023,Cyber Security,28,33,31
+URK23EC6044,Madhavi Krishnan,22EC2009,Bio-inspired Optimization Techniques,21,21,24
+URK23EC6044,Madhavi Krishnan,18EC2017,Computer Network,30,30,31
+URK23EC6044,Madhavi Krishnan,23EC2001,Introduction to Data Analytics,29,29,31
+URK23EC6044,Madhavi Krishnan,21EC2035,Data Mining,32,28,30
+URK23EC6044,Madhavi Krishnan,21EC2021,Multimedia Engineering,35,34,35
+URK23EC6045,Jeeva Sundaram,21EC2023,Cyber Security,39,36,33
+URK23EC6045,Jeeva Sundaram,22EC2009,Bio-inspired Optimization Techniques,39,40,40
+URK23EC6045,Jeeva Sundaram,18EC2017,Computer Network,38,36,40
+URK23EC6045,Jeeva Sundaram,23EC2001,Introduction to Data Analytics,34,32,35
+URK23EC6045,Jeeva Sundaram,21EC2035,Data Mining,40,40,40
+URK23EC6045,Jeeva Sundaram,21EC2021,Multimedia Engineering,40,37,40
+URK23EC6046,Aishwarya Kumar,21EC2023,Cyber Security,35,36,38
+URK23EC6046,Aishwarya Kumar,22EC2009,Bio-inspired Optimization Techniques,26,25,28
+URK23EC6046,Aishwarya Kumar,18EC2017,Computer Network,31,32,29
+URK23EC6046,Aishwarya Kumar,23EC2001,Introduction to Data Analytics,22,27,21
+URK23EC6046,Aishwarya Kumar,21EC2035,Data Mining,26,21,23
+URK23EC6046,Aishwarya Kumar,21EC2021,Multimedia Engineering,22,22,21
+URK23EC6047,Pranav Selvam,21EC2023,Cyber Security,36,32,33
+URK23EC6047,Pranav Selvam,22EC2009,Bio-inspired Optimization Techniques,31,33,31
+URK23EC6047,Pranav Selvam,18EC2017,Computer Network,26,26,27
+URK23EC6047,Pranav Selvam,23EC2001,Introduction to Data Analytics,28,30,30
+URK23EC6047,Pranav Selvam,21EC2035,Data Mining,30,27,29
+URK23EC6047,Pranav Selvam,21EC2021,Multimedia Engineering,32,35,34
+URK23EC6048,Bhavana Prakash,21EC2023,Cyber Security,31,31,31
+URK23EC6048,Bhavana Prakash,22EC2009,Bio-inspired Optimization Techniques,36,38,31
+URK23EC6048,Bhavana Prakash,18EC2017,Computer Network,32,30,35
+URK23EC6048,Bhavana Prakash,23EC2001,Introduction to Data Analytics,38,40,37
+URK23EC6048,Bhavana Prakash,21EC2035,Data Mining,37,35,37
+URK23EC6048,Bhavana Prakash,21EC2021,Multimedia Engineering,34,34,36
+URK23EC6049,Siddharth Natarajan,21EC2023,Cyber Security,29,31,27
+URK23EC6049,Siddharth Natarajan,22EC2009,Bio-inspired Optimization Techniques,32,29,31
+URK23EC6049,Siddharth Natarajan,18EC2017,Computer Network,29,28,29
+URK23EC6049,Siddharth Natarajan,23EC2001,Introduction to Data Analytics,36,37,33
+URK23EC6049,Siddharth Natarajan,21EC2035,Data Mining,31,34,30
+URK23EC6049,Siddharth Natarajan,21EC2021,Multimedia Engineering,29,30,29
+URK23EC6050,Monisha Babu,21EC2023,Cyber Security,24,27,20
+URK23EC6050,Monisha Babu,22EC2009,Bio-inspired Optimization Techniques,26,29,25
+URK23EC6050,Monisha Babu,18EC2017,Computer Network,23,19,25
+URK23EC6050,Monisha Babu,23EC2001,Introduction to Data Analytics,19,18,14
+URK23EC6050,Monisha Babu,21EC2035,Data Mining,25,23,25
+URK23EC6050,Monisha Babu,21EC2021,Multimedia Engineering,25,23,27
+URK23EC6051,Hari Raman,21EC2023,Cyber Security,29,27,23
+URK23EC6051,Hari Raman,22EC2009,Bio-inspired Optimization Techniques,34,38,34
+URK23EC6051,Hari Raman,18EC2017,Computer Network,38,37,33
+URK23EC6051,Hari Raman,23EC2001,Introduction to Data Analytics,28,25,25
+URK23EC6051,Hari Raman,21EC2035,Data Mining,24,22,26
+URK23EC6051,Hari Raman,21EC2021,Multimedia Engineering,22,25,29
+URK23EC6052,Roshini Nair,21EC2023,Cyber Security,20,22,21
+URK23EC6052,Roshini Nair,22EC2009,Bio-inspired Optimization Techniques,22,19,21
+URK23EC6052,Roshini Nair,18EC2017,Computer Network,11,15,16
+URK23EC6052,Roshini Nair,23EC2001,Introduction to Data Analytics,19,18,18
+URK23EC6052,Roshini Nair,21EC2035,Data Mining,16,17,19
+URK23EC6052,Roshini Nair,21EC2021,Multimedia Engineering,12,15,16
+URK23EC6053,Surya Joseph,21EC2023,Cyber Security,16,18,18
+URK23EC6053,Surya Joseph,22EC2009,Bio-inspired Optimization Techniques,24,25,26
+URK23EC6053,Surya Joseph,18EC2017,Computer Network,21,22,20
+URK23EC6053,Surya Joseph,23EC2001,Introduction to Data Analytics,25,26,23
+URK23EC6053,Surya Joseph,21EC2035,Data Mining,16,16,18
+URK23EC6053,Surya Joseph,21EC2021,Multimedia Engineering,18,19,20
+URK23EC6054,Varsha Anand,21EC2023,Cyber Security,25,23,23
+URK23EC6054,Varsha Anand,22EC2009,Bio-inspired Optimization Techniques,23,28,29
+URK23EC6054,Varsha Anand,18EC2017,Computer Network,26,24,24
+URK23EC6054,Varsha Anand,23EC2001,Introduction to Data Analytics,24,27,24
+URK23EC6054,Varsha Anand,21EC2035,Data Mining,29,31,28
+URK23EC6054,Varsha Anand,21EC2021,Multimedia Engineering,27,29,28
+URK23EC6055,Lokesh Devi,21EC2023,Cyber Security,34,33,33
+URK23EC6055,Lokesh Devi,22EC2009,Bio-inspired Optimization Techniques,32,30,33
+URK23EC6055,Lokesh Devi,18EC2017,Computer Network,26,25,28
+URK23EC6055,Lokesh Devi,23EC2001,Introduction to Data Analytics,32,32,29
+URK23EC6055,Lokesh Devi,21EC2035,Data Mining,25,27,24
+URK23EC6055,Lokesh Devi,21EC2021,Multimedia Engineering,31,29,30
+URK23EC6056,Nithya Iyer,21EC2023,Cyber Security,30,26,30
+URK23EC6056,Nithya Iyer,22EC2009,Bio-inspired Optimization Techniques,32,28,26
+URK23EC6056,Nithya Iyer,18EC2017,Computer Network,24,26,27
+URK23EC6056,Nithya Iyer,23EC2001,Introduction to Data Analytics,23,23,25
+URK23EC6056,Nithya Iyer,21EC2035,Data Mining,26,25,24
+URK23EC6056,Nithya Iyer,21EC2021,Multimedia Engineering,29,29,28
+URK23EC6057,Tejas Samuel,21EC2023,Cyber Security,29,30,30
+URK23EC6057,Tejas Samuel,22EC2009,Bio-inspired Optimization Techniques,30,31,30
+URK23EC6057,Tejas Samuel,18EC2017,Computer Network,34,30,32
+URK23EC6057,Tejas Samuel,23EC2001,Introduction to Data Analytics,26,27,24
+URK23EC6057,Tejas Samuel,21EC2035,Data Mining,31,33,36
+URK23EC6057,Tejas Samuel,21EC2021,Multimedia Engineering,32,36,36
+URK23EC6058,Oviya Pillai,21EC2023,Cyber Security,32,26,29
+URK23EC6058,Oviya Pillai,22EC2009,Bio-inspired Optimization Techniques,29,29,31
+URK23EC6058,Oviya Pillai,18EC2017,Computer Network,26,26,28
+URK23EC6058,Oviya Pillai,23EC2001,Introduction to Data Analytics,38,33,35
+URK23EC6058,Oviya Pillai,21EC2035,Data Mining,30,30,32
+URK23EC6058,Oviya Pillai,21EC2021,Multimedia Engineering,27,31,27
